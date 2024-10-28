@@ -73,19 +73,7 @@ Top 10 feature importances
 Results
 Metric	Value
 Accuracy	87%
-Precision	0.87
-Recall	0.88
-F1-Score	0.87
-Class-wise Performance:
-Class	Precision	Recall	F1-Score	Support
-Sooty Mould	0.83	0.72	0.77	123
-Healthy	0.87	0.92	0.89	86
-Cutting Weevil	0.98	1.00	0.99	112
-Gall Midge	0.77	0.79	0.78	101
-Anthracnose	0.89	0.92	0.91	104
-Die Back	0.92	0.90	0.91	90
-Bacterial Canker	0.84	0.89	0.86	91
-Powdery Mildew	0.89	0.87	0.88	93
+
 Visualizations
 Decision Tree Visualization: The decision tree helps understand how the model splits the data at different levels. Below is a snapshot of the complete tree visualization:
 
