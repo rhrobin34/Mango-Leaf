@@ -27,7 +27,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/plant-disease-classification.git
+git clone https://github.com/rhrobin34/Mango-Leaf/blob/main/Mango_Leaf.ipynb
 cd plant-disease-classification
 Install dependencies: Make sure you have Python 3.x installed. Install the required packages using:
 
